@@ -10,12 +10,12 @@ Import javax.swing.JTextField;
 *
 * @author 20uad009
 */
-Public class vino extends javax.swing.JFrame {
+Public class jan extends javax.swing.JFrame {
  String a,b,c;
  /**
  * Creates new form vino
  */
- Public vino() {
+ Public jan() {
  initComponents();
  }
  /**
