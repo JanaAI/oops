@@ -8,7 +8,7 @@ Package javaapplication2;
 Import javax.swing.JTextField;
 /**
 *
-* @author 20uad023
+* @author 20uad009
 */
 Public class vino extends javax.swing.JFrame {
  String a,b,c;
